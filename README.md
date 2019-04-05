@@ -1,23 +1,14 @@
-Paragraph
+###Parking Lot
+
+#Animation
 <p align="center"> 
   <img src="Animation.gif">
 </p>
 
-Span
-<span style="display:block;text-align:center">![Parking Lot Animation](Animation.gif)</span>
-
-Div
-<div style="text-align:center">
-   <img src="Animation.gif" />
-</div>
-
-Clean
-![](Animation.gif "Parking Lot Animation")
-
-Work algorithm:
+##Work algorithm:
   Vehicles automatically enter the parking lot when the barrier is opened and the entry signal is green. Vehicles can exit when the corresponding barrier is open and the exit signal is green. You can link entry control with a counter so that a maximum number of vehicles in the parking lot is not exceeded.
 
-I/O Description
+##I/O Description
 2 sensors for detecting whether the entrance barrier is down or up.
 2 sensors for detecting whether the exit barrier is down or up.
 2 sensors for detecting whether there is a car in front of the entrance barrier or in front of the exit barrier.
@@ -25,7 +16,7 @@ I/O Description
 2 actuators for generating a green signal for entrance or exit.
 2 actuators for generating a red signal for entrance or exit.
 
-Inputs/Outputs:
+#Inputs/Outputs:
 I0.0	IN barrier is down
 I0.1	IN barrier is up
 I0.2	OUT barrier is down
