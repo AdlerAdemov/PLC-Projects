@@ -1,5 +1,3 @@
-![](https://github.com/AdlerAdemov/PLC-Projects/blob/ParkingLot/Animation.gif)
-
 ![Parking Lot Animation](https://github.com/AdlerAdemov/PLC-Projects/blob/ParkingLot/Animation.gif "Parking Lot Animation)
 
 Reference-style: 
