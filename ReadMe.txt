@@ -1,5 +1,8 @@
-![Parking Lot gif](https://github.com/AdlerAdemov/PLC-Projects/blob/ParkingLot/Animation.gif)
+![](https://github.com/AdlerAdemov/PLC-Projects/blob/ParkingLot/Animation.gif)
 
+![Parking Lot Animation](https://github.com/AdlerAdemov/PLC-Projects/blob/ParkingLot/Animation.gif "Parking Lot Animation)
+
+Reference-style: 
 Work algorithm:
 	Vehicles automatically enter the parking lot when the barrier is opened and the entry signal is green. Vehicles can exit when the corresponding barrier is open and the exit signal is green. You can link entry control with a counter so that a maximum number of vehicles in the parking lot is not exceeded.
 
