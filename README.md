@@ -1,4 +1,4 @@
-![Parking Lot Animation](https://github.com/AdlerAdemov/PLC-Projects/blob/ParkingLot/Parking_Lot_Animation.gif "Parking Lot Animation")
+![Parking Lot Animation](Parking_Lot_Animation.gif "Parking Lot Animation")
 
 Reference-style: 
 
