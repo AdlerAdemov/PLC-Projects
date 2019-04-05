@@ -1,7 +1,17 @@
-<span style="display:block;text-align:center">![Parking Lot Animation]Animation.gif)</span>
+Paragraph
+<p align="center"> 
+  <img src="Animation.gif">
+</p>
 
-<div style="text-align:center"><img src ="Animation.gif" /></div>
+Span
+<span style="display:block;text-align:center">![Parking Lot Animation](Animation.gif)</span>
 
+Div
+<div style="text-align:center">
+   <img src="Animation.gif" />
+</div>
+
+Clean
 ![](Animation.gif "Parking Lot Animation")
 
 Work algorithm:
