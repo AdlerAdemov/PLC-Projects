@@ -1,4 +1,4 @@
-![](animation.gif)
+![Parking Lot gif](Animation.gif)
 
 Work algorithm:
 	Vehicles automatically enter the parking lot when the barrier is opened and the entry signal is green. Vehicles can exit when the corresponding barrier is open and the exit signal is green. You can link entry control with a counter so that a maximum number of vehicles in the parking lot is not exceeded.
