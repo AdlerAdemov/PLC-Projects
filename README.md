@@ -24,11 +24,13 @@ I0.3	OUT barrier is up
 I0.4	Car is at the barrier IN
 I0.5	Car is at the barrier OUT
 O0.0	IN barrier up
-O0.1	OUT barrier up
-O0.2	Red signal IN
-O0.3	Green signal IN
-O0.4 Red signal OUT
-O0.5	Green signal OUT
+O0.1  IN barrier down
+O0.2	OUT barrier up
+O0.3  OUT barrier down
+O0.4	Red signal IN
+O0.5	Green signal IN
+O0.6 Red signal OUT
+O0.7	Green signal OUT
 
 # PLC-Projects
 In this repository, I will upload the PLC ladder diagram algorithms and logics for projects, I've made over the years of me being a SIEMENS masters student.
